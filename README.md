@@ -5,7 +5,7 @@
 <details align="center">
     <summary>Creating New Project</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/Create%20New%20Project.png" alt="Create New Project" title="Create New Project">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/Create%20New%20Project.png" alt="Create New Project" title="Create New Project">
 
 Создание нового проекта
 
@@ -16,7 +16,7 @@
 <details align="center">
     <summary>Name New Project</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/Name%20New%20Project.png" alt="Name New Project" title="Name New Project">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/Name%20New%20Project.png" alt="Name New Project" title="Name New Project">
 
 Название нового проекта
 
@@ -35,7 +35,7 @@
 <details align="center">
     <summary>Configure New Project</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/Configure%20New%20Project.png" alt="Configure New Project" title="Configure New Project">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/Configure%20New%20Project.png" alt="Configure New Project" title="Configure New Project">
 
 Конфигурация нового проекта
 
@@ -46,7 +46,7 @@
 <details align="center">
     <summary>Adding PLK</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/Adding%20PLK.png" alt="Adding PLK" title="Adding PLK">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/Adding%20PLK.png" alt="Adding PLK" title="Adding PLK">
 
 Добавление PLK 4PP065.0571-P74
 
@@ -74,7 +74,7 @@
 <details align="center">
     <summary>Adding Hardware</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/Adding%20Hardware.png" alt="Adding Hardware" title="Adding Hardware">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/Adding%20Hardware.png" alt="Adding Hardware" title="Adding Hardware">
 
 Добавление остального аппаратного обеспечение
 
@@ -85,7 +85,7 @@
 <details align="center">
     <summary>Ready hardware</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/Ready%20Hardware.png" alt="Ready hardware" title="Ready hardware">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/Ready%20Hardware.png" alt="Ready hardware" title="Ready hardware">
 
 Готовое аппаратное обеспечение
 
@@ -98,7 +98,7 @@
  <details align="center">
     <summary>ETH Configuration</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/ETH%20Configuration.png" alt="ETH configuration" title="ETH configuration">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/ETH%20Configuration.png" alt="ETH configuration" title="ETH configuration">
 
 Готовое аппаратное обеспечение
 
@@ -109,7 +109,7 @@
  <details align="center">
     <summary>Connection to PLK</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/Online%20Settings.png" alt="Connection to PLK" title="Connection to PLK">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/Online%20Settings.png" alt="Connection to PLK" title="Connection to PLK">
 
 Подключение к PLK
 
@@ -122,7 +122,7 @@
  <details align="center">
     <summary>ANSI C Programm All In One</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/Program%20Structure.png" alt="Program Structure" title="Program Structure">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/Program%20Structure.png" alt="Program Structure" title="Program Structure">
 
 Добавление программного пакета
 
@@ -133,7 +133,7 @@
  <details align="center">
     <summary>Variables Initialization</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/Variables%20Initialization.png" alt="Variables Initialization" title="Variables Initialization">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/Variables%20Initialization.png" alt="Variables Initialization" title="Variables Initialization">
 
 Инициализация переменных
 
@@ -146,7 +146,7 @@
  <details align="center">
     <summary>I/O Mapping</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/IO%20Mapping.png" alt="I/O Mapping" title="I/O Mapping">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/IO%20Mapping.png" alt="I/O Mapping" title="I/O Mapping">
 
 Согласования реальных светодиодов с переменными
 
@@ -161,7 +161,7 @@ AutomationStudio сама себе представляет программу, 
  <details align="center">
     <summary>Program Cyclic</summary>
 
-<img src="https://github.com/FaNtic1337/B-R-AutomationStudio-LED-Control/blob/main/tutorial%20images/Program%20Cyclic.png" alt="Program Cyclic" title="Program Cyclic">
+<img src="https://github.com/FaNtic1337/BR-AutomationStudio-LED-Control/blob/main/tutorial%20images/Program%20Cyclic.png" alt="Program Cyclic" title="Program Cyclic">
 
 Частота выполнения программы
 
